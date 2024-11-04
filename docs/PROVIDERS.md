@@ -78,3 +78,5 @@ They provide an open API for testing purposes. Use `http://openservice-test.vrr.
 
 - :heavy_check_mark: Supports Location Information, Stop Events and Trips
 - :heavy_check_mark: No contract required
+
+The link to be used for requests here is: `https://www.efa-bw.de/trias?`
